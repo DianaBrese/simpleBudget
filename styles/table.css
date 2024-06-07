@@ -1,0 +1,23 @@
+#head {
+    background-color: rgb(207, 211, 214);
+
+}
+
+#table {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    line-height: 50px;
+    padding: auto;
+    margin: auto;
+    outline-style: solid;
+}
+
+table, th, td {
+    border: 1px solid;
+  }
+
+#total {
+    border: 1px solid;
+    background-color: rgb(207, 211, 214);
+}
